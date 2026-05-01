@@ -1,0 +1,17 @@
+{
+  "nombre": "Andrés",
+  "edad": "34",
+  "sexo": "M",
+  "estatura_cm": "178",
+  "peso_kg": "82",
+  "grasa_pct_o_NA": "NA",
+  "objetivo": "recomposición",
+  "nivel": "intermedio",
+  "dias_entrenamiento": "4",
+  "lugar_entrenamiento": "gym",
+  "lesiones_molestias": "ninguna",
+  "alimentos_excluidos": "ninguno",
+  "dia_super": "sábado",
+  "preferencia_menu": "porciones prácticas",
+  "horario_entrenamiento": "7:00 am"
+}
